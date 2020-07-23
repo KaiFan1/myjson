@@ -1,23 +1,27 @@
 {
-  "caseType":"SC",
-  "filingDate":"7/20/2020",
-  "caseJurisdiction":"SC",
-  "filingType":"INIT",
-  "DE":"AT",
-  "parties":[
+  "filings":[
     {
-      "partyType":"DEF",
-      "person":{
-        "firstName":"Joe",
-        "lastName":"Bate"
-      }
-    },
-    {
-      "partyType":"PLAIN",
-      "person":{
-        "firstName":"Peter",
-        "lastName":"Pan"
-       }
-     }
-   ]
+      "caseType":"SC",
+      "filingDate":"7/20/2020",
+      "caseJurisdiction":"SC",
+      "filingType":"INIT",
+      "DE":"AT",
+      "parties":[
+        {
+          "partyType":"DEF",
+          "person":{
+            "firstName":"Joe",
+            "lastName":"Bate"
+          }
+        },
+        {
+          "partyType":"PLAIN",
+          "person":{
+            "firstName":"Peter",
+            "lastName":"Pan"
+           }
+         }
+       ]
+    }
+  ]
  }
